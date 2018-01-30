@@ -18,7 +18,7 @@
 text=get_file_text()
 ```
 
-并将上一行
+并将其上一行：
 ```
 text=get_wechat_sigature_text()
 ```
