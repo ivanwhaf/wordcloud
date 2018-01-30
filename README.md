@@ -2,6 +2,7 @@
 * 提取txt\word文本，jieba分词后生成词云图
 * 登陆微信并抓取微信所有好友签名生成词云图
 <br>
+
 ![image](https://github.com/ivanwhaf/wordcloud/blob/master/Resources/wd.png)
 # 使用教程
 1.电脑安装python环境<br>
