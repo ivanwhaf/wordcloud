@@ -1,11 +1,11 @@
 # wordcloud功能介绍
-**1.提取txt\word文本，jieba分词后生成词云图**
-**2.登陆微信并抓取微信所有好友签名生成词云图**
+* 提取txt\word文本，jieba分词后生成词云图
+* 登陆微信并抓取微信所有好友签名生成词云图
 ![image](https://github.com/ivanwhaf/wordcloud/blob/master/Resources/wd.png)
 # 使用教程
-1.电脑安装python环境
-2.pip安装jieba、itchat、wordcloud、numpy、PIL、matplotlib、re 库.
-3.运行根目录下word.py程序
+1.电脑安装python环境<br>
+2.pip安装jieba、itchat、wordcloud、numpy、PIL、matplotlib、re 库<br>
+3.运行根目录下word.py程序<br>
 
 
 # 注意事项
